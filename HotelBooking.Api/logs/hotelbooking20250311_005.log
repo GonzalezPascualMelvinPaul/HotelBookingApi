@@ -1,0 +1,10 @@
+2025-03-11 22:04:09.706 -06:00 [INF] Iniciando la API...
+2025-03-11 22:07:58.092 -06:00 [INF] Iniciando la API...
+2025-03-11 22:08:50.544 -06:00 [INF] HTTP POST /api/Auth/login responded 200 in 420.6290 ms
+2025-03-11 22:09:37.264 -06:00 [INF] HTTP POST /api/Rooms responded 401 in 94.2506 ms
+2025-03-11 22:11:28.362 -06:00 [INF] HTTP POST /api/Auth/login responded 200 in 25.4842 ms
+2025-03-11 22:12:09.496 -06:00 [INF] HTTP POST /api/Rooms responded 401 in 31.8372 ms
+2025-03-11 22:12:28.067 -06:00 [INF] HTTP POST /api/Rooms responded 401 in 202.8520 ms
+2025-03-11 22:13:01.307 -06:00 [INF] HTTP POST /api/Rooms responded 401 in 9.6313 ms
+2025-03-11 22:13:21.370 -06:00 [INF] HTTP POST /api/Auth/login responded 200 in 5.3756 ms
+2025-03-11 22:13:37.373 -06:00 [INF] HTTP POST /api/Rooms responded 401 in 0.9372 ms

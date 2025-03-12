@@ -1,0 +1,5 @@
+C:\Users\paul_\OneDrive\Documentos\APIHOTEL\HotelBookingApi\HotelBooking.Domain\obj\Debug\net9.0\HotelBooking.Domain.csproj.AssemblyReference.cache
+C:\Users\paul_\OneDrive\Documentos\APIHOTEL\HotelBookingApi\HotelBooking.Domain\obj\Debug\net9.0\HotelBooking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paul_\OneDrive\Documentos\APIHOTEL\HotelBookingApi\HotelBooking.Domain\obj\Debug\net9.0\HotelBooking.Domain.AssemblyInfoInputs.cache
+C:\Users\paul_\OneDrive\Documentos\APIHOTEL\HotelBookingApi\HotelBooking.Domain\obj\Debug\net9.0\HotelBooking.Domain.AssemblyInfo.cs
+C:\Users\paul_\OneDrive\Documentos\APIHOTEL\HotelBookingApi\HotelBooking.Domain\obj\Debug\net9.0\HotelBooking.Domain.csproj.CoreCompileInputs.cache

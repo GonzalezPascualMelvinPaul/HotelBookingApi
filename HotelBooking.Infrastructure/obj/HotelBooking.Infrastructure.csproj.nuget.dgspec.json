@@ -1,0 +1,188 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\paul_\\OneDrive\\Documentos\\APIHOTEL\\HotelBookingApi\\HotelBooking.Infrastructure\\HotelBooking.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\paul_\\OneDrive\\Documentos\\APIHOTEL\\HotelBookingApi\\HotelBooking.Domain\\HotelBooking.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paul_\\OneDrive\\Documentos\\APIHOTEL\\HotelBookingApi\\HotelBooking.Domain\\HotelBooking.Domain.csproj",
+        "projectName": "HotelBooking.Domain",
+        "projectPath": "C:\\Users\\paul_\\OneDrive\\Documentos\\APIHOTEL\\HotelBookingApi\\HotelBooking.Domain\\HotelBooking.Domain.csproj",
+        "packagesPath": "C:\\Users\\paul_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paul_\\OneDrive\\Documentos\\APIHOTEL\\HotelBookingApi\\HotelBooking.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paul_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.14, 8.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.14, 8.0.14]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.14, 8.0.14]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\paul_\\OneDrive\\Documentos\\APIHOTEL\\HotelBookingApi\\HotelBooking.Infrastructure\\HotelBooking.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paul_\\OneDrive\\Documentos\\APIHOTEL\\HotelBookingApi\\HotelBooking.Infrastructure\\HotelBooking.Infrastructure.csproj",
+        "projectName": "HotelBooking.Infrastructure",
+        "projectPath": "C:\\Users\\paul_\\OneDrive\\Documentos\\APIHOTEL\\HotelBookingApi\\HotelBooking.Infrastructure\\HotelBooking.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\paul_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paul_\\OneDrive\\Documentos\\APIHOTEL\\HotelBookingApi\\HotelBooking.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paul_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\paul_\\OneDrive\\Documentos\\APIHOTEL\\HotelBookingApi\\HotelBooking.Domain\\HotelBooking.Domain.csproj": {
+                "projectPath": "C:\\Users\\paul_\\OneDrive\\Documentos\\APIHOTEL\\HotelBookingApi\\HotelBooking.Domain\\HotelBooking.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.14, 8.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.14, 8.0.14]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.14, 8.0.14]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

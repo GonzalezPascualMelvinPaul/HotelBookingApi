@@ -1,0 +1,10 @@
+2025-03-11 22:19:29.666 -06:00 [INF] Iniciando la API...
+2025-03-11 22:19:58.137 -06:00 [INF] HTTP GET /api/Reservations responded 200 in 3092.5467 ms
+2025-03-11 22:20:15.616 -06:00 [INF] HTTP POST /api/Rooms responded 401 in 20.5264 ms
+2025-03-11 22:20:40.020 -06:00 [INF] HTTP POST /api/Auth/login responded 200 in 214.9400 ms
+2025-03-11 22:20:55.432 -06:00 [INF] HTTP POST /api/Rooms responded 403 in 139.0742 ms
+2025-03-11 22:21:04.392 -06:00 [INF] HTTP POST /api/Rooms responded 403 in 2.5068 ms
+2025-03-11 22:21:27.413 -06:00 [INF] HTTP POST /api/Auth/login responded 200 in 11.3660 ms
+2025-03-11 22:21:53.163 -06:00 [INF] HTTP POST /api/Rooms responded 201 in 9364.3551 ms
+2025-03-11 22:23:30.740 -06:00 [INF] Iniciando la API...
+2025-03-11 22:24:03.966 -06:00 [INF] HTTP POST /api/Rooms responded 401 in 162.5744 ms

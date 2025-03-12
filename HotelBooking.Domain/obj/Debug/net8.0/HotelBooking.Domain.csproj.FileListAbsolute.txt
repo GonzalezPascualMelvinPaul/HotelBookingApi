@@ -1,0 +1,12 @@
+C:\Users\paul_\OneDrive\Documentos\APIHOTEL\HotelBookingApi\HotelBooking.Domain\bin\Debug\net8.0\HotelBooking.Domain.deps.json
+C:\Users\paul_\OneDrive\Documentos\APIHOTEL\HotelBookingApi\HotelBooking.Domain\bin\Debug\net8.0\HotelBooking.Domain.dll
+C:\Users\paul_\OneDrive\Documentos\APIHOTEL\HotelBookingApi\HotelBooking.Domain\bin\Debug\net8.0\HotelBooking.Domain.pdb
+C:\Users\paul_\OneDrive\Documentos\APIHOTEL\HotelBookingApi\HotelBooking.Domain\obj\Debug\net8.0\HotelBooking.Domain.csproj.AssemblyReference.cache
+C:\Users\paul_\OneDrive\Documentos\APIHOTEL\HotelBookingApi\HotelBooking.Domain\obj\Debug\net8.0\HotelBooking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paul_\OneDrive\Documentos\APIHOTEL\HotelBookingApi\HotelBooking.Domain\obj\Debug\net8.0\HotelBooking.Domain.AssemblyInfoInputs.cache
+C:\Users\paul_\OneDrive\Documentos\APIHOTEL\HotelBookingApi\HotelBooking.Domain\obj\Debug\net8.0\HotelBooking.Domain.AssemblyInfo.cs
+C:\Users\paul_\OneDrive\Documentos\APIHOTEL\HotelBookingApi\HotelBooking.Domain\obj\Debug\net8.0\HotelBooking.Domain.csproj.CoreCompileInputs.cache
+C:\Users\paul_\OneDrive\Documentos\APIHOTEL\HotelBookingApi\HotelBooking.Domain\obj\Debug\net8.0\HotelBooking.Domain.dll
+C:\Users\paul_\OneDrive\Documentos\APIHOTEL\HotelBookingApi\HotelBooking.Domain\obj\Debug\net8.0\refint\HotelBooking.Domain.dll
+C:\Users\paul_\OneDrive\Documentos\APIHOTEL\HotelBookingApi\HotelBooking.Domain\obj\Debug\net8.0\HotelBooking.Domain.pdb
+C:\Users\paul_\OneDrive\Documentos\APIHOTEL\HotelBookingApi\HotelBooking.Domain\obj\Debug\net8.0\ref\HotelBooking.Domain.dll

@@ -1,0 +1,4 @@
+2025-03-12 00:03:34.205 -06:00 [INF] Iniciando la API...
+2025-03-12 00:05:04.452 -06:00 [INF] HTTP POST /api/Auth/login responded 200 in 896.0820 ms
+2025-03-12 00:05:14.224 -06:00 [INF] HTTP GET /api/Reservations responded 401 in 33.2609 ms
+2025-03-12 00:05:28.696 -06:00 [INF] HTTP GET /api/Reservations responded 200 in 5116.5632 ms

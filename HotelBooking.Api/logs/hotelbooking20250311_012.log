@@ -1,0 +1,22 @@
+2025-03-11 23:40:07.200 -06:00 [INF] Iniciando la API...
+2025-03-11 23:40:10.067 -06:00 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "DELETE api/Reservations/{id}" for actions - HotelBooking.Api.Controllers.ReservationsController.DeleteReservation (HotelBooking.Api),HotelBooking.Api.Controllers.ReservationsController.CancelReservation (HotelBooking.Api). Actions require a unique method/path combination for Swagger/OpenAPI 3.0. Use ConflictingActionsResolver as a workaround
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerDocumentWithoutFilters(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Program.<>c.<<<Main>$>b__0_4>d.MoveNext() in C:\Users\paul_\OneDrive\Documentos\APIHOTEL\HotelBookingApi\HotelBooking.Api\Program.cs:line 128
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-03-11 23:40:57.769 -06:00 [INF] Iniciando la API...
+2025-03-11 23:41:02.892 -06:00 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "DELETE api/Reservations/{id}" for actions - HotelBooking.Api.Controllers.ReservationsController.DeleteReservation (HotelBooking.Api),HotelBooking.Api.Controllers.ReservationsController.CancelReservation (HotelBooking.Api). Actions require a unique method/path combination for Swagger/OpenAPI 3.0. Use ConflictingActionsResolver as a workaround
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerDocumentWithoutFilters(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Program.<>c.<<<Main>$>b__0_4>d.MoveNext() in C:\Users\paul_\OneDrive\Documentos\APIHOTEL\HotelBookingApi\HotelBooking.Api\Program.cs:line 128
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
