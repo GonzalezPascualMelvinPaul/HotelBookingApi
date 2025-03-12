@@ -1,4 +1,4 @@
-Aquí tienes un **README.md** con toda la información importante sobre la API de Reservas de Hotel en **.NET 5**, incluyendo instalación, configuración, autenticación, pruebas con `xUnit`, y más.
+
 
 📄 **README.md**
 
